@@ -31,6 +31,6 @@ body { font-size: 30px;
 <li>You can make your own websites in a notepad!</li>
 <li>It doesn't take too many lines of code!</li>
 </br>
-<br><small>Let me know if there are spelling or grammar errors!<small></br>
+<br><small>Let me know if there are additional spelling or grammar errors!<small></br>
 </body>
 </html>
